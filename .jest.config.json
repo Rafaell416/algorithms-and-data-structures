@@ -1,0 +1,6 @@
+{
+  "clearMocks": true,
+  "moduleNameMapper": {
+  },
+  "preset": "ts-jest"
+}
